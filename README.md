@@ -9,7 +9,7 @@ This project explores image classification using Convolutional Neural Networks (
 2. [Datasets](#datasets)
 3. [Methodology](#methodology)
 4. [Experiments and Results](#experiments-and-results)
-5. [References](#references)
+
 
 ## Introduction
 Traditional machine learning models struggle with complex, high-dimensional data and often fail to generalize well. CNNs overcome these limitations by automatically extracting hierarchical features from input data, making them ideal for image classification tasks. This project implements a CNN-based approach and compares it against various alternative architectures to highlight its effectiveness.
@@ -69,11 +69,6 @@ Compared to Linear Neural Networks, Fully Connected Networks, Multilayer Percept
 ![image](https://github.com/user-attachments/assets/6a974a57-8593-41c9-b169-d2212b712d99)
 
 ![image](https://github.com/user-attachments/assets/3472935c-651b-4bf5-88e9-c3049884b64b)
-## References
-1. Xin, M. & Wang, Y., *Research on image classification model based on deep convolution neural network*. EURASIP Journal on Image and Video Processing, 2019.
-2. Chen, L. et al., *Review of image classification algorithms based on convolutional neural networks*. Remote Sensing, 2021.
-3. Alzubaidi, L. et al., *Review of deep learning: concepts, CNN architectures, challenges, applications, future directions*. Journal of Big Data, 2021.
-4. Bhatt, D. et al., *CNN variants for computer vision: History, architecture, application, challenges and future scope*. Electronics, 2021.
 
 ---
 
